@@ -2,8 +2,7 @@
   "name": "Reverb",
   "vendorId": "0x8181",
   "productId": "0x0001",
-  "matrix": { "rows": 7, "cols": 8
-  },
+  "matrix": { "rows": 7, "cols": 8 },
   "menus": ["qmk_rgb_matrix"],
   "keycodes": ["qmk_lighting"],
   "layouts": {
